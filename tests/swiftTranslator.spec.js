@@ -69,7 +69,7 @@ test.describe('SwiftTranslator Singlish to Sinhala Translation Tests', () => {
 
   // POSITIVE TEST CASES - 24 scenarios 
   const positiveTests = [
-    { id: 'Pos_Fun_0001', input: 'oyaata kohomadha?', expected: 'oyaata kohomadha?' }, 
+    { id: 'Pos_Fun_0001', input: 'oyaa sathutindha inne?', expected: 'oyaa sathutindha inne?' }, 
     { id: 'Pos_Fun_0002', input: 'nangi padam karanawa, ayya salli hoyanawa', expected: 'nangi padam karanawa, ayya salli hoyanawa' },
     { id: 'Pos_Fun_0003', input: 'bas eka parakku unoth, mama train eke ennam', expected: 'bas eka parakku unoth, mama train eke ennam' },
     { id: 'Pos_Fun_0004', input: 'api heta beach yamu', expected: 'api heta beach yamu' },
